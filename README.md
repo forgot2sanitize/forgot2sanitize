@@ -34,7 +34,7 @@
 
 ## Featured Projects
 
-### 🎯 [Offensive Security Portfolio](https://github.com/forgot2sanitize/offsec-portfolio)
+### 🎯 [Web Security Portfolio](https://github.com/forgot2sanitize/websec-portfolio)
 > Web Exploitation · PortSwigger Web Security Academy
 
 Structured collection of exploitation write-ups covering real attack patterns - not just proof-of-concept screenshots. Each entry documents the vulnerability class, exploitation path, and real-world impact, following a consistent format: Vulnerability → Methodology → Impact → Remediation.
@@ -43,6 +43,10 @@ Structured collection of exploitation write-ups covering real attack patterns - 
 - Cross-Site Scripting (stored, reflected)
 - Authentication and access control flaws
 - Input validation bypass techniques
+
+## Certifications
+
+- ✅ **PJPT** — TCM Security
 
 ---
 
